@@ -1,7 +1,9 @@
 # Hi and welcome to my GitHub-Profile!
 ## Enjoy scrolling through my work and see what progress I made in the past! 
 
-Click [here](https://jessicawindoffer.myportfolio.com/) to get to my portfolio. There you'll find i.e. abstracts of my past creative work, my CV and contact details!
+**Want to know more about me?**
+- Click [here](https://jessicawindoffer.myportfolio.com/) to reach out to my **PORTFOLIO**. There you'll find i.e. abstracts of my past creative work, my CV and contact details!
+- Otherwise click [here](https://www.xing.com/profile/Jessica_Windoffer/) to reach out to my **XING PROFILE**! 
 
 | Category        | My data       |
 | --------------- |:-------------:|
