@@ -3,6 +3,12 @@
 
 Click [here](https://jessicawindoffer.myportfolio.com/) to get to my portfolio. There you'll find i.e. abstracts of my past creative work, my CV and contact details!
 
+| Category        | My data       |
+| --------------- |:-------------:|
+| Age             | 27            |
+| Graduation      | B. Sc.        |
+| Study programme | IT & Design   |
+
 <!--
 **Jessica-Windoffer/Jessica-Windoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
