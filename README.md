@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi and welcome to my GitHub-Profil! Enjoy scrolling through my work and see what progress I made in the past! 
 
 <!--
 **Jessica-Windoffer/Jessica-Windoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
