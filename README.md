@@ -8,6 +8,7 @@ Click [here](https://jessicawindoffer.myportfolio.com/) to get to my portfolio. 
 | Age             | 27            |
 | Graduation      | B. Sc.        |
 | Study programme | IT & Design   |
+| Living in       | Hamburg       |
 
 ![Jessica Windoffer](https://github-readme-stats.vercel.app/api?username=Jessica-Windoffer&hide=contribs,prs)
 
