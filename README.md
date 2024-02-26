@@ -1,5 +1,5 @@
 # Hi and welcome to my GitHub-Profil!
-# Enjoy scrolling through my work and see what progress I made in the past! 
+## Enjoy scrolling through my work and see what progress I made in the past! 
 
 Click [here](https://jessicawindoffer.myportfolio.com/) to get to my portfolio. There you'll find i.e. abstracts of my past creative work, my CV and contact details!
 
