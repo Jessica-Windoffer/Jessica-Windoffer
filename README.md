@@ -9,6 +9,8 @@ Click [here](https://jessicawindoffer.myportfolio.com/) to get to my portfolio. 
 | Graduation      | B. Sc.        |
 | Study programme | IT & Design   |
 
+https://github-readme-stats.vercel.app/api?username=Jessica-Windoffer&hide=contribs,prs
+
 <!--
 **Jessica-Windoffer/Jessica-Windoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
