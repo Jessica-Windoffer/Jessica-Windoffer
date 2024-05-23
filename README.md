@@ -7,7 +7,7 @@
 
 | Category        | My data       |
 | --------------- |:-------------:|
-| Age             | 27            |
+| Age             | 28            |
 | Graduation      | B. Sc.        |
 | Study programme | IT & Design   |
 | Living in       | Hamburg       |
